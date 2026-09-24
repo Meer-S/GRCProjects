@@ -17,7 +17,7 @@ The EU AI Act has created a flood of shallow content—summaries, lists of oblig
 │   Framework diagrams                    Human oversight evaluation          │
 │   Compliance checklists                 Documented reasoning                │
 │                                                                             │
-│   Result: Content exists, but          Result: Regulator-ready             │
+│   Result: Content exists, but          Result: Regulator-ready              │
 │   no operational value                 documentation                        │
 │                                                                             │
 └─────────────────────────────────────────────────────────────────────────────┘
@@ -48,10 +48,10 @@ TalentMatch AI has developed a candidate screening system that:
 │                    TALENTMATCH AI SYSTEM FLOW                               │
 ├─────────────────────────────────────────────────────────────────────────────┤
 │                                                                             │
-│   ┌──────────────┐     ┌──────────────┐     ┌──────────────┐               │
-│   │     Job      │     │   Candidate  │     │  Historical  │               │
-│   │ Description  │     │   Resumes    │     │  Hire Data   │               │
-│   └──────┬───────┘     └──────┬───────┘     └──────┬───────┘               │
+│   ┌──────────────┐     ┌──────────────┐     ┌──────────────┐                │
+│   │     Job      │     │   Candidate  │     │  Historical  │                │
+│   │ Description  │     │   Resumes    │     │  Hire Data   │                │
+│   └──────┬───────┘     └──────┬───────┘     └──────┬───────┘                │
 │          │                    │                    │                        │
 │          └────────────────────┼────────────────────┘                        │
 │                               │                                             │
