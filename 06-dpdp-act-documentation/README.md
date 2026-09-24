@@ -30,7 +30,7 @@ The audit engine leverages **open‑source/freeware tools** via APIs:
 ## 📑 Documentation Lifecycle
 
 ### Phase 1 – Data Discovery
-- [`1.Data_Discovery.md`](./06-dpdp-act-documentation/template/1.Data_Discovery.md)
+- [`1.Data_Discovery.md`](./template/1.Data_Discovery.md)
 
 ### Phase 2 – Gap Assessment
 - [`2.Gap_Assessment.md`](./06-dpdp-act-documentation/template/2.Gap_Assessment.md)
