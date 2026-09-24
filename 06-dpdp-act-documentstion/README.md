@@ -33,7 +33,7 @@ The audit engine integrates **open‑source/freeware tools** via APIs:
 - [`1.Data_Discovery.md`](./1.Data_Discovery.md)
 
 ### Phase 2 – Gap Assessment
-- [`2.Gap_Assessment.md`](./2.Gap_Assessment.md)  
+- [`2.Gap_Assessment.md`](./template/2.Gap_Assessment.md)  
 - [`3.Gap_Analysis_Report.md`](./3.Gap_Analysis_Report.md)
 
 ### Phase 3 – Remediation
