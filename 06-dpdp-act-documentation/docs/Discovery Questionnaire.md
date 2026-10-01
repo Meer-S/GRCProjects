@@ -1,5 +1,7 @@
 📝 DPDPA 2023 Discovery Questionnaire (Client Template)
-Section 1: Organization Profile
+
+**Section 1: Organization Profile **
+
 Q1: What is your organization’s legal name and domain? (Short answer)
 
 Q2: Have you identified yourself as a Data Fiduciary, Data Processor, or both? (Multiple choice: Fiduciary / Processor / Both)  
