@@ -4,7 +4,8 @@
 
     Q1: What is your organization’s legal name and domain? (Short answer)
 
-    Q2: Have you identified yourself as a Data Fiduciary, Data Processor, or both? (Multiple choice: Fiduciary / Processor / Both)  
+    Q2: Have you identified yourself as a Data Fiduciary, Data Processor, or both? (
+    Multiple choice: Fiduciary / Processor / Both)  
     Evidence: Data-flow/role document
 
 ### **Section 2: Data Inventory & Processing**
